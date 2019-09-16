@@ -1,4 +1,6 @@
-# Taking users input
+# worked as a team with Suleiman Ibrahim Junior, Gana Ebenezer and Adamu Nurudeen
+
+# Retriving users input
 annual_salary = float(input("Enter your starting annual salary: ")) 
 portion_saved = float(input("Enter the percent of your salary to save, as a decimal: "))
 total_cost = float(input("Enter the cost of your dream home: "))
